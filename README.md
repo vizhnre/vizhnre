@@ -22,30 +22,25 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Opensource
 
 - **[react-swapy](https://github.com/vizhnre/react-swapy)**: A powerful React wrapper for the framework-agnostic Swapy library, enabling effortless drag-to-swap layouts.
 - **[amplify-next](https://github.com/vishnusankaran/amplify-next)**: A utility to bootstrap AWS AppSync + Next.js applications seamlessly.
-- **Component Libraries**: Expertise in building A11Y, L10N, and I18N compatible component libraries for global brands, including leading UK supermarkets and cruise lines.
-- **Sellular**: Lead architect for a multi-platform sales engagement platform (CRM, VoIP, Messaging) during my time at Plivo.
-
----
-
-### 📈 GitHub Stats
-
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vizhnre&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vizhnre&layout=compact&theme=tokyonight)
+- **[turbo-svelte-starter](https://github.com/vizhnre/turbo-svelte-starter)** A starter with turborepo, sveltekit.
 
 ---
 
 ### 📜 Professional Journey Highlights
 
-- **Lead Frontend Engineer @ Plivo:** Architected cross-dependent web, mobile, and desktop applications.
-- **SDE III @ Ola:** Led onboarding and account management for fintech and insurance products.
-- **Sr. Associate @ Publicis Sapient:** Developed high-scale grocery and booking platforms for global clients.
+- **Service Agencies** - PublicisSapient (Clients - Ecom, Cruise Bookings), LAD (Clients - Ecom, Doctors, Lawyers, Govt Services)
+- **Early Stage** - Buzooka (Scalabale production-grade Foundations from Day One)
+- **Seed Funded** - Adadyn, GenWi (Both Acquired)
+- **YC Startup** - Plivo (Was a Twilio competitor - only second to twilio in market share, now pivoted to AI Sales Agents)
+- **Unicorn** - Ola (One of the largest rideshare companies in India)
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect
 
-- **LinkedIn:** [vishnusankaran](https://www.linkedin.com/in/vishnusankaran)
+- **[X](https://x.com/vizhnre)**
+- **[Linkedin](https://www.linkedin.com/in/vishnusankaran)**
