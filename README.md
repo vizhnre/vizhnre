@@ -9,6 +9,16 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 
 ***
 
+### 📜 Experience
+
+- **Service Agencies** - _PublicisSapient_ (Clients - Ecom, Cruise Bookings), _LAD_ (Clients - Ecom, Doctors, Lawyers, Govt Services)
+- **Early Stage** - _Buzooka_ (Scalabale production-grade Foundations from Day One)
+- **Seed Funded** - _Adadyn_, _GenWi_ (Acquired)
+- **YC Startup** - _Plivo_ (Customer Engagement Platform; pivoted to AI Sales Agents)
+- **Unicorn** - _Ola_ (One of the largest rideshare companies in India)
+
+***
+
 ### 🛠️ Toolbox
 
 - **Languages** - JavaScript (ES6+), TypeScript, SQL, GraphQL, HTML5, CSS3
@@ -25,13 +35,3 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 - **[react-swapy](https://github.com/vizhnre/react-swapy)**: A powerful React wrapper for the framework-agnostic Swapy library, enabling effortless drag-to-swap layouts.
 - **[amplify-next](https://github.com/vishnusankaran/amplify-next)**: A utility to bootstrap AWS AppSync + Next.js applications seamlessly.
 - **[turbo-svelte-starter](https://github.com/vizhnre/turbo-svelte-starter)** A starter with turborepo, sveltekit.
-
-***
-
-### 📜 Experience
-
-- **Service Agencies** - _PublicisSapient_ (Clients - Ecom, Cruise Bookings), _LAD_ (Clients - Ecom, Doctors, Lawyers, Govt Services)
-- **Early Stage** - _Buzooka_ (Scalabale production-grade Foundations from Day One)
-- **Seed Funded** - _Adadyn_, _GenWi_ (Acquired)
-- **YC Startup** - _Plivo_ (Customer Engagement Platform; pivoted to AI Sales Agents)
-- **Unicorn** - _Ola_ (One of the largest rideshare companies in India)
