@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there! I'm Vishnu Sankaran 👋
 
-<!--
-**vizhnre/vizhnre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Architect | WebApp Solutionist | UX Enthusiast
 
-Here are some ideas to get you started:
+I am a **Product Architect** with over **13 years of experience** dedicated to conceptualizing, planning, and creating functional, user-centric platforms. My expertise lies in architecting end-to-end solutions, from design and UX to high-performance front-end and back-end systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Up To
+- **Currently:** Product Architect at **[Buzooka](https://buzooka.in)**.
+- **Mission:** Helping startup founders and product owners reduce time-to-market for their MVPs while having a scalable architecture, and optimizing operational costs.
+- **Focus:** End-to-end product ownership including Design, UX, and full-stack architecture.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), TypeScript, SQL, GraphQL, HTML5, CSS3/SCSS |
+| **Frameworks** | **ReactJS**, **NextJS**, **Svelte**, **Astro**, VueJS, Angular, DurandalJS |
+| **Back-end/Runtime**| NodeJS, Bun, Express |
+| **State & Styling** | Redux, MobX, VueX, Styled Components, Emotion |
+| **Databases** | Postgres, MongoDB, Neo4J, Elasticsearch |
+| **Cloud & DevOps** | GCP, AWS, Firebase, Docker, Digital Ocean |
+| **Tools** | Figma, Adobe Creative Suite, Webpack, Vite, Playwright |
+
+---
+
+### 🌟 Featured Projects
+
+- **[react-swapy](https://github.com/vizhnre/react-swapy)**: A powerful React wrapper for the framework-agnostic Swapy library, enabling effortless drag-to-swap layouts.
+- **[amplify-next](https://github.com/vishnusankaran/amplify-next)**: A utility to bootstrap AWS AppSync + Next.js applications seamlessly.
+- **Component Libraries**: Expertise in building A11Y, L10N, and I18N compatible component libraries for global brands, including leading UK supermarkets and cruise lines.
+- **Sellular**: Lead architect for a multi-platform sales engagement platform (CRM, VoIP, Messaging) during my time at Plivo.
+
+---
+
+### 📈 GitHub Stats
+
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vizhnre&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vizhnre&layout=compact&theme=tokyonight)
+
+---
+
+### 📜 Professional Journey Highlights
+
+- **Lead Frontend Engineer @ Plivo:** Architected cross-dependent web, mobile, and desktop applications.
+- **SDE III @ Ola:** Led onboarding and account management for fintech and insurance products.
+- **Sr. Associate @ Publicis Sapient:** Developed high-scale grocery and booking platforms for global clients.
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [vishnusankaran](https://www.linkedin.com/in/vishnusankaran)
+- **Portfolio:** [vishnusankaran.github.io](https://vishnusankaran.github.io)
+- **Stack Overflow:** [Vishnu Sankaran](https://stackoverflow.com/users/2175407/vishnu-sankaran) (699+ Rep)
+- **Email:** [vishnu88sankaran@gmail.com](mailto:vishnu88sankaran@gmail.com)
+
+---
+
+*“I don't just write code; I solutionize experiences.”*
