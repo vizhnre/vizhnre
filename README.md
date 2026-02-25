@@ -33,7 +33,7 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 - **Service Agencies** - PublicisSapient (Clients - Ecom, Cruise Bookings), LAD (Clients - Ecom, Doctors, Lawyers, Govt Services)
 - **Early Stage** - Buzooka (Scalabale production-grade Foundations from Day One)
 - **Seed Funded** - Adadyn, GenWi (Both Acquired)
-- **YC Startup** - Plivo (Was a Twilio competitor - only second to twilio in market share, now pivoted to AI Sales Agents)
+- **YC Startup** - Plivo (Customer Engagement Platform; pivoted to AI Sales Agents)
 - **Unicorn** - Ola (One of the largest rideshare companies in India)
 
 ---
