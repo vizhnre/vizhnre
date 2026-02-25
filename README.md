@@ -1,7 +1,5 @@
 # Hi there! I'm Vishnu 👋
 
-### Product Architect | WebApp Solutionist | UX Enthusiast
-
 I am a **Product Architect** with over **14 years of experience** dedicated to conceptualizing, planning, and creating functional, user-centric platforms. My expertise lies in architecting end-to-end solutions, from design and UX to high-performance front-end and back-end systems.
 
 ### 🚀 What I'm Up To
