@@ -13,23 +13,12 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 
 ### 🛠️ My Tech Toolbox
 
-**Languages & Core**
-* JavaScript (ES6+), TypeScript, SQL, GraphQL, HTML5, CSS3/SCSS
-
-**Frontend Frameworks**
-* ReactJS, Next.js, Svelte, Astro, VueJS, Angular, DurandalJS
-
-**Backend & Runtimes**
-* Node.js, Bun, Express
-
-**State & Styling**
-* Redux, MobX, VueX, Tailwind CSS, Styled Components, Emotion
-
-**Databases & Storage**
-* MongoDB, Neo4J, Elasticsearch, PostgreSQL
-
-**Cloud & Infrastructure**
-* Google Cloud Platform (GCP), AWS, Firebase, Docker, Digital Ocean
+**Languages** - JavaScript (ES6+), TypeScript, SQL, GraphQL, HTML5, CSS3/SCSS
+**Frameworks** - ReactJS, Next.js, Svelte, Astro, VueJS, Angular, DurandalJS - Node.js, Bun, Express, Hono
+**State** - Redux, MobX, VueX, Zustand
+**Styling** - Scss, less, TailwindCSS, Styled Components, Emotion, MaterialUI
+**Databases & Storage** - MongoDB, Neo4J, Elasticsearch, PostgreSQL
+**Cloud & Infrastructure** - Google Cloud Platform (GCP), AWS, Firebase, Docker, Digital Ocean
 
 ---
 
