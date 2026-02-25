@@ -1,4 +1,4 @@
-# Hi there! I'm Vishnu Sankaran 👋
+# Hi there! I'm Vishnu 👋
 
 ### Product Architect | WebApp Solutionist | UX Enthusiast
 
