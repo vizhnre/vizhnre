@@ -6,8 +6,7 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 - **Product Architect** at **[Buzooka](https://buzooka.in)**.
 - **Mission:** Helping businesses reduce time-to-market for their MVPs while having a scalable architecture, and optimizing operational costs.
 - **Focus:** End-to-end product ownership including Design, UX, and full-stack architecture.
-___
----
+
 ***
 
 ### 🛠️ Toolbox
@@ -19,7 +18,7 @@ ___
 - **Databases & Storage** - MongoDB, Neo4J, Elasticsearch, PostgreSQL
 - **Cloud & Infrastructure** - Google Cloud Platform (GCP), AWS, Firebase, Docker, Digital Ocean
 
----
+***
 
 ### 🌟 Opensource
 
@@ -27,7 +26,7 @@ ___
 - **[amplify-next](https://github.com/vishnusankaran/amplify-next)**: A utility to bootstrap AWS AppSync + Next.js applications seamlessly.
 - **[turbo-svelte-starter](https://github.com/vizhnre/turbo-svelte-starter)** A starter with turborepo, sveltekit.
 
----
+***
 
 ### 📜 Experience
 
