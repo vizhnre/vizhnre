@@ -8,6 +8,7 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 - **Focus:** End-to-end product ownership including Design, UX, and full-stack architecture.
 ___
 ---
+***
 
 ### 🛠️ Toolbox
 
