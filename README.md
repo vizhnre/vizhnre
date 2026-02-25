@@ -6,7 +6,7 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 - **Product Architect** at **[Buzooka](https://buzooka.in)**.
 - **Mission:** Helping businesses reduce time-to-market for their MVPs while having a scalable architecture, and optimizing operational costs.
 - **Focus:** End-to-end product ownership including Design, UX, and full-stack architecture.
-
+___
 ---
 
 ### 🛠️ Toolbox
