@@ -2,7 +2,7 @@
 
 I am a **Product Architect** with over **14 years of experience** dedicated to conceptualizing, planning, and creating functional, user-centric platforms. My expertise lies in architecting end-to-end solutions, from design and UX to high-performance front-end and back-end systems.
 
-### 🚀 What I'm Up To
+### 🚀 Currently
 - **Currently:** Product Architect at **[Buzooka](https://buzooka.in)**.
 - **Mission:** Helping businesses reduce time-to-market for their MVPs while having a scalable architecture, and optimizing operational costs.
 - **Focus:** End-to-end product ownership including Design, UX, and full-stack architecture.
@@ -11,8 +11,8 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 
 ### 🛠️ Toolbox
 
-- **Languages** - JavaScript (ES6+), TypeScript, SQL, GraphQL, HTML5, CSS3/SCSS
-- **Frameworks** - ReactJS, Next.js, Svelte, Astro, VueJS, Angular, DurandalJS - Node.js, Bun, Express, Hono
+- **Languages** - JavaScript (ES6+), TypeScript, SQL, GraphQL, HTML5, CSS3
+- **Frameworks** - ReactJS, Next.js, Svelte, Astro, VueJS, Angular, DurandalJS | Node.js, Bun, Express, Hono
 - **State** - Redux, MobX, VueX, Zustand
 - **Styling** - Scss, Less, TailwindCSS, StyledComponents, Emotion, MaterialUI
 - **Databases & Storage** - MongoDB, Neo4J, Elasticsearch, PostgreSQL
