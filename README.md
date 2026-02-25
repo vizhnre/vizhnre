@@ -30,11 +30,11 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 
 ### 📜 Experience
 
-- **Service Agencies** - PublicisSapient (Clients - Ecom, Cruise Bookings), LAD (Clients - Ecom, Doctors, Lawyers, Govt Services)
-- **Early Stage** - Buzooka (Scalabale production-grade Foundations from Day One)
-- **Seed Funded** - Adadyn, GenWi (Both Acquired)
-- **YC Startup** - Plivo (Customer Engagement Platform; pivoted to AI Sales Agents)
-- **Unicorn** - Ola (One of the largest rideshare companies in India)
+- **Service Agencies** - _PublicisSapient_ (Clients - Ecom, Cruise Bookings), _LAD_ (Clients - Ecom, Doctors, Lawyers, Govt Services)
+- **Early Stage** - _Buzooka_ (Scalabale production-grade Foundations from Day One)
+- **Seed Funded** - _Adadyn_, _GenWi_ (Acquired)
+- **YC Startup** - _Plivo_ (Customer Engagement Platform; pivoted to AI Sales Agents)
+- **Unicorn** - _Ola_ (One of the largest rideshare companies in India)
 
 ---
 
