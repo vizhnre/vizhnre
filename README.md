@@ -13,17 +13,25 @@ I am a **Product Architect** with over **13 years of experience** dedicated to c
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ My Tech Toolbox
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, SQL, GraphQL, HTML5, CSS3/SCSS |
-| **Frameworks** | **ReactJS**, **NextJS**, **Svelte**, **Astro**, VueJS, Angular, DurandalJS |
-| **Back-end/Runtime**| NodeJS, Bun, Express |
-| **State & Styling** | Redux, MobX, VueX, Styled Components, Emotion |
-| **Databases** | Postgres, MongoDB, Neo4J, Elasticsearch |
-| **Cloud & DevOps** | GCP, AWS, Firebase, Docker, Digital Ocean |
-| **Tools** | Figma, Adobe Creative Suite, Webpack, Vite, Playwright |
+**Languages & Core**
+* JavaScript (ES6+), TypeScript, SQL, GraphQL, HTML5, CSS3/SCSS
+
+**Frontend Frameworks**
+* ReactJS, Next.js, Svelte, Astro, VueJS, Angular, DurandalJS
+
+**Backend & Runtimes**
+* Node.js, Bun, Express
+
+**State & Styling**
+* Redux, MobX, VueX, Tailwind CSS, Styled Components, Emotion
+
+**Databases & Storage**
+* MongoDB, Neo4J, Elasticsearch, PostgreSQL
+
+**Cloud & Infrastructure**
+* Google Cloud Platform (GCP), AWS, Firebase, Docker, Digital Ocean
 
 ---
 
@@ -54,10 +62,3 @@ I am a **Product Architect** with over **13 years of experience** dedicated to c
 ### 📫 Connect With Me
 
 - **LinkedIn:** [vishnusankaran](https://www.linkedin.com/in/vishnusankaran)
-- **Portfolio:** [vishnusankaran.github.io](https://vishnusankaran.github.io)
-- **Stack Overflow:** [Vishnu Sankaran](https://stackoverflow.com/users/2175407/vishnu-sankaran) (699+ Rep)
-- **Email:** [vishnu88sankaran@gmail.com](mailto:vishnu88sankaran@gmail.com)
-
----
-
-*“I don't just write code; I solutionize experiences.”*
