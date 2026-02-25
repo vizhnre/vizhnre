@@ -20,7 +20,7 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 
 ---
 
-### 🌟 Featured Opensource
+### 🌟 Opensource
 
 - **[react-swapy](https://github.com/vizhnre/react-swapy)**: A powerful React wrapper for the framework-agnostic Swapy library, enabling effortless drag-to-swap layouts.
 - **[amplify-next](https://github.com/vishnusankaran/amplify-next)**: A utility to bootstrap AWS AppSync + Next.js applications seamlessly.
