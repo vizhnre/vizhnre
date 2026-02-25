@@ -2,14 +2,12 @@
 
 ### Product Architect | WebApp Solutionist | UX Enthusiast
 
-I am a **Product Architect** with over **13 years of experience** dedicated to conceptualizing, planning, and creating functional, user-centric platforms. My expertise lies in architecting end-to-end solutions, from design and UX to high-performance front-end and back-end systems.
+I am a **Product Architect** with over **14 years of experience** dedicated to conceptualizing, planning, and creating functional, user-centric platforms. My expertise lies in architecting end-to-end solutions, from design and UX to high-performance front-end and back-end systems.
 
 ### 🚀 What I'm Up To
 - **Currently:** Product Architect at **[Buzooka](https://buzooka.in)**.
-- **Mission:** Helping startup founders and product owners reduce time-to-market for their MVPs while having a scalable architecture, and optimizing operational costs.
+- **Mission:** Helping businesses reduce time-to-market for their MVPs while having a scalable architecture, and optimizing operational costs.
 - **Focus:** End-to-end product ownership including Design, UX, and full-stack architecture.
-
----
 
 ### 🛠️ My Tech Toolbox
 
