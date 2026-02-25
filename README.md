@@ -36,7 +36,7 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 - **YC Startup** - _Plivo_ (Customer Engagement Platform; pivoted to AI Sales Agents)
 - **Unicorn** - _Ola_ (One of the largest rideshare companies in India)
 
----
+***
 
 ### 📫 Connect
 
