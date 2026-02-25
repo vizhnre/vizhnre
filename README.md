@@ -28,7 +28,7 @@ I am a **Product Architect** with over **14 years of experience** dedicated to c
 
 ---
 
-### 📜 Professional Journey Highlights
+### 📜 Experience
 
 - **Service Agencies** - PublicisSapient (Clients - Ecom, Cruise Bookings), LAD (Clients - Ecom, Doctors, Lawyers, Govt Services)
 - **Early Stage** - Buzooka (Scalabale production-grade Foundations from Day One)
